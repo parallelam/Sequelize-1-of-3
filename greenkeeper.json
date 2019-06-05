@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "01-Chirpy-mySQL/Unsolved/package.json",
+        "03-Chirpy-Sequelize/package.json",
+        "04-StarWars/Unsolved/package.json",
+        "05-SequelizeLibrary/Unsolved/package.json",
+        "06-SequelizeCLI/Unsolved/package.json"
+      ]
+    }
+  }
+}
